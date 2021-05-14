@@ -24,4 +24,4 @@
     - признак скользящее среднее
     На финальном этапе: Подобрал лучшую модель и провел подбор гиперпараметров с помощью функции GridSearchCV.
     
-   [пример](http://example.com/ "Необязательная подсказка")
+   [Ноутбук "Taxi_in_airport"](https://nbviewer.jupyter.org/github/Timsa27/sample_project/blob/main/taxi_in_airport/taxi_in_airports.ipynb/ "Необязательная подсказка")
