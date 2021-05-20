@@ -29,3 +29,4 @@
 3. Определить скважины с максимальными предсказанными значениями
 4. С помощью Bootstrap определить среднюю прибыль, 95%-й доверительный интервал и риск убытков.
 5. Выбор региона для разработки скважин
+[Ноутбук](https://nbviewer.jupyter.org/github/Timsa27/sample_project/blob/main/where_to_drill_%20a%20_well%3F/oil%20region.ipynb
